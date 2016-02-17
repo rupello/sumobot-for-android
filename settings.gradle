@@ -1,1 +1,2 @@
+include ':sumobotdemo'
 include 'usbSerialForAndroid', 'usbSerialExamples'
